@@ -112,5 +112,4 @@ Siga estas instruções para configurar e executar a aplicação localmente:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone SEU_LINK_DO_REPOSITORIO.git # Substitua pelo link do seu repositório clonado
-cd nome-da-pasta-do-seu-projeto # Navegue para a pasta raiz do projeto
+git clone https://github.com/lipebarba2/assembly 
